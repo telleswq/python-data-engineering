@@ -44,35 +44,21 @@ O objetivo não é apenas mostrar código funcionando, mas **explicar o raciocí
 ## 📂 Estrutura do Repositório
 
 python-data-engineering/
-│
 ├── funcoes-python-engenharia-de-dados/
-│
 ├── trabalhando-com-arquivos/
-│
 ├── trabalhando-com-requisicoes/
-│
 ├── trabalhando-com-dados-reais/
-│
 ├── trabalhando-com-bancos-de-dados/
-│
 ├── principais-ferramentas-por-area/
-│
 ├── pilares-da-arquitetura/
-│
 ├── gerenciamento-de-acessos/
-│
 ├── arquitetura-no-azure-conceitos-fundamentais/
-│
 ├── gerenciamento-de-objetos/
 │ ├── blobs-gen1/
 │ ├── datalake-storage-gen2/
 │ ├── azure-files/
 │ ├── filas/
 │ └── tables/
-│
 ├── casos-de-uso-de-armazenamento/
-│
 ├── organizacao-de-dados/
-│
 └── README.md
-# python-data-engineering
