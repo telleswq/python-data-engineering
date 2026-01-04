@@ -43,6 +43,7 @@ O objetivo não é apenas mostrar código funcionando, mas **explicar o raciocí
 
 ## 📂 Estrutura do Repositório
 
+```text
 python-data-engineering/
 ├── funcoes-python-engenharia-de-dados/
 ├── trabalhando-com-arquivos/
@@ -62,3 +63,4 @@ python-data-engineering/
 ├── casos-de-uso-de-armazenamento/
 ├── organizacao-de-dados/
 └── README.md
+```
