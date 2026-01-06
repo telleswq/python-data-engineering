@@ -35,7 +35,7 @@ piloto_valor_upper_comprehension
 
 ```
 
-### 🎯 Estrutura geral
+### Estrutura geral
 
 ```python
 { chave_expressao: valor_expressao for chave, valor in iterável if condição }

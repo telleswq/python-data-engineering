@@ -2,7 +2,7 @@
 
 A **List Comprehension** é uma forma mais simples, rápida e “Pythonica” de criar listas a partir de outras lista
 
-### 👇 Exemplo tradicional (sem list comprehension)
+### Exemplo tradicional (sem list comprehension)
 
 ```python
 numeros = [1, 2, 3, 4, 5, 6]
